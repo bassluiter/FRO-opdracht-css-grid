@@ -40,4 +40,4 @@ Oké, je mag weer aan je laptop komen! 💻
 13. Gebruik de huidige grid-area namen om de items aan de grid toe te wijzen met behulp van de `grid-template-areas`
 14. Resize jouw scherm en bekijk jouw CSS Grid in actie!
 
-![Screenshot](./assets/layout/grid-column.jpg)
+![Screenshot](./assets/layout-grid-column.jpg)
